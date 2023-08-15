@@ -23,6 +23,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "file-loader": "^6.2.0"
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
   }
 }
